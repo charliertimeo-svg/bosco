@@ -1,0 +1,36 @@
+# Bosco
+
+> Application mobile iOS + Android qui aide les plaisanciers à diagnostiquer et réparer leur bateau en mer, sans connexion. En développement.
+
+Bosco charge sur le téléphone, avant l'appareillage, un pack ciblé pour le bateau de l'utilisateur : manuels des équipements, pannes connues, solutions vérifiées. Une IA locale lit les photos de la panne et propose les causes probables, de la plus simple à vérifier à la plus rare. Chaque réponse cite ses sources (manuel + retours propriétaires) avec un niveau de confiance. Pour les sujets sensibles (gaz, 230 V, voie d'eau), l'app oriente d'abord vers un professionnel ou vers les secours (VHF canal 16, CROSS).
+
+## Statut
+
+- en développement
+- liste d'attente gratuite — rien n'est en vente
+- lancement non daté — ouverture des premiers tests communiquée aux inscrits
+
+## Pages
+
+- [Accueil FR](https://bosco.app/fr) : présentation, piliers, FAQ, inscription à la liste d'attente
+- [Accueil EN](https://bosco.app/en)
+- [Accueil IT](https://bosco.app/it)
+- [Comparatif FR](https://bosco.app/fr/meilleures-applications-entretien-bateau) : comparaison datée et sourcée des principales apps d'entretien bateau
+- [Comparatif EN](https://bosco.app/en/best-boat-maintenance-apps)
+- [Comparatif IT](https://bosco.app/it/migliori-app-manutenzione-barca)
+- [Checklist FR](https://bosco.app/fr/checklist-entretien-bateau-avant-saison)
+- [Checklist EN](https://bosco.app/en/boat-maintenance-checklist-before-season)
+- [Checklist IT](https://bosco.app/it/checklist-manutenzione-barca-inizio-stagione)
+- [Confidentialité FR](https://bosco.app/fr/confidentialite)
+- [Mentions légales FR](https://bosco.app/fr/mentions-legales)
+
+## Positionnement
+
+Les apps existantes (Ready4Sea, Skipper'n, Eloyot) couvrent le carnet d'entretien ou proposent une IA en ligne. Bosco se différencie par :
+- hors ligne complet, IA comprise, pour tenir en mer sans réseau
+- utilisation des manuels des équipements du bateau de l'utilisateur, pas de forums génériques
+- garde-fous sécurité systématiques
+
+## Contact
+
+bonjour@bosco.app

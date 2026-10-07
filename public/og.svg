@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="sea" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#E6EFF3"/>
+      <stop offset="1" stop-color="#F6F8F7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sea)"/>
+  <g fill="none" stroke="#1E5F7C" stroke-opacity="0.35" stroke-width="1.4">
+    <path d="M-20 120 C 220 60, 480 180, 720 110 S 1080 50, 1220 160"/>
+    <path d="M-20 240 C 260 180, 500 300, 760 240 S 1080 180, 1220 280"/>
+    <path d="M-20 360 C 240 300, 520 420, 780 360 S 1080 300, 1220 400"/>
+    <path d="M-20 480 C 260 420, 540 540, 800 480 S 1080 420, 1220 520"/>
+  </g>
+  <g font-family="Archivo, system-ui, sans-serif" fill="#0D2B3E">
+    <text x="80" y="300" font-size="88" font-weight="500" font-stretch="118%">Bosco</text>
+    <text x="80" y="360" font-size="34" fill="#2A4659">le réflexe du bord quand ça casse en mer</text>
+    <text x="80" y="420" font-size="22" fill="#2A4659">app mobile — diagnostic hors connexion — en développement</text>
+  </g>
+  <g transform="translate(900, 150)">
+    <rect width="220" height="330" rx="26" fill="#F6F8F7" stroke="#0D2B3E" stroke-opacity="0.3"/>
+    <rect x="20" y="30" width="180" height="280" rx="16" fill="#E6EFF3"/>
+    <text x="40" y="70" font-family="Archivo" font-size="16" font-weight="500" fill="#0D2B3E">bosco</text>
+    <text x="40" y="94" font-family="Archivo" font-size="12" fill="#2A4659">impulseur VP · 150 h</text>
+    <rect x="40" y="110" width="140" height="60" rx="10" fill="#F6F8F7" stroke="#0D2B3E" stroke-opacity="0.2"/>
+    <circle cx="54" cy="124" r="5" fill="#F25A1D"/>
+    <text x="68" y="128" font-family="Archivo" font-size="12" fill="#0D2B3E">pas de débit raw water</text>
+    <text x="68" y="146" font-family="Archivo" font-size="10" fill="#2A4659">1) impulseur · 2) crépine · 3) joint</text>
+    <rect x="40" y="260" width="140" height="36" rx="10" fill="#F25A1D"/>
+    <text x="110" y="283" text-anchor="middle" font-family="Archivo" font-size="13" fill="#FFFFFF">voir les étapes</text>
+  </g>
+</svg>
