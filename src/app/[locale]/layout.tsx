@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { notFound } from "next/navigation";
 import { isLocale, site } from "@/config/site";
 import { SiteHeader } from "@/components/SiteHeader";
@@ -20,6 +20,14 @@ export const metadata: Metadata = {
     default: site.name,
     template: `%s — ${site.name}`,
   },
+};
+
+export const viewport: Viewport = {
+  colorScheme: "light dark",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#F6F8F7" },
+    { media: "(prefers-color-scheme: dark)", color: "#0A1A24" },
+  ],
 };
 
 type Props = {
